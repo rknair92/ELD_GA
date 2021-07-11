@@ -11,4 +11,4 @@ Genetic Algorithm(GA) is a search and optimization technique based on the princi
 4
 Selection: The fitter chromosomes are selected based on ranking of their fitness. Based on the selection criteria, these chromosomes undergo crossover and mutation to produce new off springs
 Crossover: The chromosomes after selection undergo crossover randomly with the fitter population. During crossover the genes in chromosomes are exchanged to produce new offspring.
-Mutation: The chromosomes after crossover may undergo random flip of one of the bits in the chromosome to produce a new trait in the organism [3].
+Mutation: The chromosomes after crossover may undergo random flip of one of the bits in the chromosome to produce a new trait in the organism.
